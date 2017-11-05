@@ -1,3 +1,4 @@
-# rasproute
-Usando raspberry pi 3 como roteador
+# RaspBerry Router
+
+Usando raspberry como roteador.
 
