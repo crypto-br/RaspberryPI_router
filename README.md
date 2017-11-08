@@ -1,4 +1,9 @@
-# RaspBerry Router
+# RaspBerry pi 3 Router
 
-Usando raspberry como roteador.
+Objetivo: Utilizar o raspberry como roteador.
+
+Sistema Utilizado: RaspBian.
+
+
+
 
